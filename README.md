@@ -1,7 +1,7 @@
 # JavaExercises
 Flo's exercises in Java from https://www.udemy.com/course/java-the-complete-java-developer-course/
 
-Since creating 1 repository for each exercise project would be redundant, I decided to give each project a new branch so I can store all of them in 1 repository. 
+IntelliJIDEA's Git VCS features automatically push a project into a new github repository. Since creating 1 repository for each exercise project would be redundant, I decided to give each project a new branch so I can store all of them in 1 repository. 
 How to store a project to this repository:
 1. initialize git in the project's directory using `git init`
 2. add the remote to this repository using `git remote add origin git@github.com:florentin-a-p/JavaExercises.git`
